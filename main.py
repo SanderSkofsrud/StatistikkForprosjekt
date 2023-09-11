@@ -1,3 +1,10 @@
+# If not already installed, install the following packages:
+# - pandas
+# - numpy
+# - matplotlib
+# - scikit-learn
+# Use the following command: pip install --user pandas matplotlib scikit-learn numpy
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
