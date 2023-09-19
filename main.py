@@ -22,6 +22,9 @@ To run this program, you need to install the following packages:
 
 To install a package, run the following command in the terminal:
 pip install --user pandas matplotlib sklearn
+If you are using a virtual environment, you can omit the --user flag.
+If you are using a macOS or Linux, you may need to replace pip with pip3.
+You might also need to drop the --user flag if you are using a macOS or Linux.
 """
 
 import pandas as pd
