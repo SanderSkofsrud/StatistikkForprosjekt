@@ -9,8 +9,8 @@ Authors:
 - Ina Martini
 - Malin H. Holi
 - Sander R. Skofsrud
-Date: 11-09-2023
-Version: 1.1
+Date: 19-09-2023
+Version: 1.2
 """
 
 # Required packages
